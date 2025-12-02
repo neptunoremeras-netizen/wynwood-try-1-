@@ -1,0 +1,7 @@
+{
+  "name": "Wynwood Asuncion - NightLife Template",
+  "description": "Una landing page moderna y dinámica para discotecas y eventos, con integración de IA para atención al cliente y reservas.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
